@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1750958735 source:c:\users\dlope\desktop\ejercicos poo\intercedes\intercedes\main.cpp
+	<iostream>
+	<vector>
+	"Futbolista.h"
+	"Basquetbolista.h"
+	"Nadador.h"
+
+1750980793 source:c:\users\dlope\desktop\ejercicos poo\intercedes\intercedes\src\basquetbolista.cpp
+	"Basquetbolista.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1750980793 c:\users\dlope\desktop\ejercicos poo\intercedes\intercedes\include\basquetbolista.h
+	"Deportista.h"
+	<vector>
+
+1750957989 c:\users\dlope\desktop\ejercicos poo\intercedes\intercedes\include\deportista.h
+	<string>
+
+1750957989 source:c:\users\dlope\desktop\ejercicos poo\intercedes\intercedes\src\deportista.cpp
+	"Deportista.h"
+
+1750958587 source:c:\users\dlope\desktop\ejercicos poo\intercedes\intercedes\src\futbolista.cpp
+	"Futbolista.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1750958587 c:\users\dlope\desktop\ejercicos poo\intercedes\intercedes\include\futbolista.h
+	"Deportista.h"
+	<string>
+	<vector>
+
+1750980793 source:c:\users\dlope\desktop\ejercicos poo\intercedes\intercedes\src\nadador.cpp
+	"Nadador.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1750980793 c:\users\dlope\desktop\ejercicos poo\intercedes\intercedes\include\nadador.h
+	"Deportista.h"
+	<vector>
+
